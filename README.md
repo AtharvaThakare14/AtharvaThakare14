@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Atharva Thakare  
 
-🎓 CSE (AI) @ G H Raisoni College of Engineering & Management, Pune (2022–26)  
 📧 [Email](mailto:atharvavthakare2004@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/atharva-thakare-251379259) | 💻 [GitHub](https://github.com/AtharvaThakare14)  
 
 ---
